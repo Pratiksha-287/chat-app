@@ -18,10 +18,10 @@ A real-time chat application built with Django and jQuery. This app allows users
 ## Screenshots
 
 ### Main Page
-![Main Page](screenshots/main.jpg)
+![Main Page](main.jpg)
 
 ### Chat Room
-![Chat Room](screenshots/room.jpg)
+![Chat Room](room.jpg)
 
 ## Installation
 
